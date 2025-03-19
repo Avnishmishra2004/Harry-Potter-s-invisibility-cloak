@@ -1,0 +1,2 @@
+# Harry Potter’s invisibility cloak
+ Now You See Me, Now You Don't! 🎀✨  Lately, I’ve been diving into OpenCV, and what better way to explore it than by recreating a little magic? Inspired by Harry Potter’s invisibility cloak, this fun experiment makes anything blue vanish in real-time! ⚡👀  With color detection and background replacement, the camera seamlessly swaps out blue regions with the captured background—giving the illusion of invisibility. No spells required, just some clever image processing! 🪄
